@@ -1,0 +1,138 @@
+* {
+    box-sizing: border-box;
+    background-color: #222239;
+    color:white;
+    font-family: monospace;
+}
+
+body {
+    margin: 0;
+    padding: 10px 30px;
+    font-family: Arial, sans-serif;
+}
+
+.heading {
+    height: 80px;
+    padding: 15px 18px;
+    color: white;
+    border-radius:10px;
+    background-color: #010b3c;
+}
+
+.title {
+    float: left;
+    background-color:#010b3c;
+    
+}
+
+.title h1 {
+    margin: 0;
+    font-size: 24px;
+    background-color:#010b3c;
+}
+
+.title p {
+    margin: 8px 0;
+    font-size: 17px;
+    background-color:#010b3c;
+}
+
+button {
+    float: right;
+    margin-top: 13px;
+    padding: 8px 18px;
+    border: 0;
+    border-radius: 25px;
+    background: #536db4;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.sidebar {
+    float: left;
+    width: 22%;
+    text-align:center;
+    margin-top:30px;
+    padding-top:10px;
+    border-radius:10px;
+    background-color: #536db4;
+}
+
+.sidebar p {
+    margin: 0 0 25px;
+    font-size: 18px;
+    background-color: #536db4;
+}
+.sidebar b{
+    background-color: #536db4;
+}
+
+.content {
+    float: left;
+    width: 78%;
+    padding: 45px 15px 0 10px;
+}
+
+.content h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.intro {
+    margin-top: 5px;
+    font-size: 16px;
+}
+
+.boxes {
+    margin-top: 45px;
+}
+
+.box {
+    float: left;
+    width: 31%;
+    height: 80px;
+    margin-right: 2%;
+    padding: 5px 12px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.box h2 {
+    margin: 0;
+    font-size: 15px;
+    color:#536db4
+}
+
+.box p {
+    margin: 2px 0;
+    font-size: 12px;
+}
+
+.bottom {
+    clear: both;
+    padding-top: 25px;
+}
+
+.circle {
+    float: left;
+    width: 210px;
+    height: 210px;
+    margin-right: 55px;
+    border: 3px solid black;
+    border-radius: 50%;
+    background:linear-gradient(rgb(18, 4, 60),rgb(149, 234, 249));
+}
+
+.text {
+    padding-top: 25px;
+}
+
+.text h2 {
+    font-size: 24px;
+}
+
+.text p {
+    font-size: 14px;
+    line-height: 1.1;
+}

@@ -1,0 +1,146 @@
+*{
+    font-family:monospace;
+}
+body{
+    background-color: #1E2F2F;
+}
+.parent{
+    background-color: #1E2F2F;
+    height:800px;
+    margin:0px;
+    padding: 0px;
+    
+}
+.sec_1{
+    width:349px;
+    height:749px;
+    background-color: #3F4D3A;
+    margin-top:25px;
+    margin-left:20px;
+    float:left;
+    border-radius: 15px;
+}
+.partion_1,.partion_2,.partion_3,.partion_4,.partion_5{
+    width: 300px;
+    height:120px;
+    margin-left:23px;
+    margin-top:25px;
+    background-color: #044343;
+    border-radius: 10px;
+}
+.sec_2{
+    width: 1000px;
+    height: 750px;
+    background-color: #3F4D3A;
+    border-radius: 15px;
+    margin-top:21px;
+    margin-right: 31px;
+    float:right;
+
+}
+.part_1,.part_2{
+    width: 400px;
+    height:500px;
+    background-color: #044343;
+    margin-top:25px;
+    margin-right:67px;
+    float:right;
+}
+.part_1{
+    border-bottom-right-radius: 10px;
+}
+.part_2{
+    border-bottom-left-radius: 10px;
+}
+.cheating{
+    height:150px;
+    width:867px;
+    background-color: #044343;
+    margin-top:40px;
+    margin-left:66px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.link{
+    text-decoration: none;
+    text-align: center;
+    font-size: 50px;
+    margin-left: 55px;
+    margin-top: 27px;
+    float:left;
+    font-family: monospace;
+    color: #726541;
+}
+#home{
+    margin-left:86px;
+}
+.head{
+    margin:0px;
+    color:#726541;
+    font-size: 50px;
+    font-family: monospace;
+    font-weight: 900;
+    margin-left:200px;
+    
+}
+.head_below{
+    margin:0px;
+    font-size:x-large;
+    color:#726541;
+    margin-left:255px;
+}
+#about{
+    margin-left:73px;
+}
+#skill{
+    margin-left:58px;
+}
+#project{
+    margin-left:33px;
+}
+#contact{
+    margin-left:44px;
+}
+img{
+    width: 400px;
+    height: 400px;
+    margin:auto;
+}
+#modikeshabdh{
+    margin:auto;
+    color:white;
+    margin-left:20px;
+    color: #C1856C;
+}
+#coffee{
+    font-size:27px;
+    margin-left:4px;
+    color:#C1856C;
+}
+.title{
+    margin-top:30px;
+    font-size:30px;
+    color:#6b543d
+}
+p{
+    font-size:16px;
+    color: #C1856C;
+}
+.title,p{
+    margin:20px 20px;
+}
+.Sub_head{
+    margin:0px;
+    margin-top:15px;
+    margin-left: 32%;
+    font-size: 32px;
+    color: #C1856C;
+}
+hr{
+    /* background-color:#3F4D3A; */
+    border:1px solid #3F4D3A;
+}
+li{
+    font-size:17px;
+    color: #C1856C;
+}
